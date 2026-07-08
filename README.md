@@ -12,4 +12,4 @@ A SQL-based data analytics project that analyzes bank customer data to uncover i
 * ⭐ Long-Term Customer (VIP) Analysis
 * 📈 Business insights using SQL Server
 
-**Tools & Technologies:** SQL Server, T-SQL, Data Analysis, Business Analytics
+**Tools & Technologies:** SQL Server
