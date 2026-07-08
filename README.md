@@ -12,4 +12,5 @@ A SQL-based data analytics project that analyzes bank customer data to uncover i
 * ⭐ Long-Term Customer (VIP) Analysis
 * 📈 Business insights using SQL Server
 
-**Tools & Technologies:** SQL Server
+**Tools & Technologies:** SQL Server 
+project link sql_churn_project.sql
