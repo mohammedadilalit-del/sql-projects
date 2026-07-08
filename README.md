@@ -1,4 +1,4 @@
-# sql-projects
+# sql-project
 ## 🏦 Bank Customer Analytics using SQL
 
 A SQL-based data analytics project that analyzes bank customer data to uncover insights into customer behavior, credit utilization, financial risk, and customer segmentation. The project uses SQL queries to generate key performance indicators (KPIs), identify high-value and high-risk customers, and support data-driven business decisions.
